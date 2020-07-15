@@ -9,7 +9,7 @@
  * :trophy: Personal projects I worked in free time [Start Learning Android](https://play.google.com/store/apps/details?id=edu.learning.startlearingandroid),
             [Pune Food Adda](https://play.google.com/store/apps/details?id=com.satyam.foodadda), [Meeting Tracker](https://play.google.com/store/apps/details?id=com.help.meetingtracker)
 * :bulb: Looking to collaborate on new ideas related to E-commerce, learning platforms
-* :anguished: Looking for help with latest Android trends [Android Jetpack](https://developer.android.com/jetpack), [Python Django Framework](https://www.djangoproject.com/)
+* :anguished: Looking for help with latest Android trends using [Android Jetpack](https://developer.android.com/jetpack) also [Python Django Framework](https://www.djangoproject.com/)
 * :speech_balloon: Ask me about technical stuff related to Android, Firebase. Also about personal growth courses etc.
 * :briefcase: Always ready for community involvement, making connections, collaborate on ideas.
 * :pencil: Sharing knowledge, technical stuff gives me :relieved: :relaxed: [My Writings on Medium Blog](https://medium.com/@gondhalesatyam_28082) 
