@@ -2,7 +2,7 @@
 
 ## Who am I to you all :
 
-                                                                                              ![Alt Text](https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif)
+![Alt Text](https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif)
 
  * :computer: I am working as Android Application Developer for [Fyra Insights Pvt Lts](https://fyra.biz/).
  * :email: Worked on popular apps like [PasserBy _10,000+ downloads](https://play.google.com/store/apps/details?id=biz.fyra.passerby&hl=en_IN), [PasserbyBusiness](https://play.google.com/store/apps/details?id=biz.fyra.bookapp&hl=en_IN) 
