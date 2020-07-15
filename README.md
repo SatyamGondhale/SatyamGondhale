@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- * :computer:Work: Android Development
+ * :computer:I am working as Android Application Developer.
 
 
 <!--
