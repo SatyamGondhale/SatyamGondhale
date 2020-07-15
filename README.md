@@ -1,6 +1,8 @@
 ### Hi there 👋
 
- * :computer:I am working as Android Application Developer.
+## Who am I to you all :
+
+ * :computer:I am working as Android Application Developer for [Fyra Insights Pvt Lts](https://fyra.biz/).
 
 
 <!--
