@@ -15,8 +15,7 @@
 * :pencil: Sharing knowledge, technical stuff gives me :relieved: :relaxed: [My Writings on Medium Blog](https://medium.com/@gondhalesatyam_28082) 
 * :email: Reach me on gondhalesatyam@gmail.com
 * :dizzy: Fun fact : Starts working on new Repository with new concepts always, learning, contributing to myself day by day :satisfied: 
-
-``` html <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="satyam-gondhale"><a class="LI-simple-link" href='https://in.linkedin.com/in/satyam-gondhale?trk=profile-badge'>Satyam Gondhale</a></div> ```
+* :sunglasses: [Connect me Here professionally](https://www.linkedin.com/in/satyam-gondhale/)
 
 <!--
 **SatyamGondhale/SatyamGondhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
