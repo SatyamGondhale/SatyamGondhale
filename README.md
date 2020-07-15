@@ -7,7 +7,10 @@
  * :beginner: Currently Learning Kotlin in Android Development
  * :trophy: Personal projects I worked in free time [Start Learning Android](https://play.google.com/store/apps/details?id=edu.learning.startlearingandroid),
             [Pune Food Adda](https://play.google.com/store/apps/details?id=com.satyam.foodadda), [Meeting Tracker](https://play.google.com/store/apps/details?id=com.help.meetingtracker)
-
+* :bulb: Looking to collaborate on new ideas related to E-commerce, learning platforms
+* :anguished: Looking for help with latest Android trends [Android Jetpack](https://developer.android.com/jetpack), [Python Django Framework](https://www.djangoproject.com/)
+* :speech_balloon: Ask me about technical stuff related to Android, Firebase. Also about personal growth courses etc.
+* :briefcase: Always ready for community involvement, making connections, collaborate on ideas, 
 
 <!--
 **SatyamGondhale/SatyamGondhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
