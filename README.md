@@ -3,7 +3,7 @@
 ## Who am I to you all :
 
  * :computer: I am working as Android Application Developer for [Fyra Insights Pvt Lts](https://fyra.biz/).
- * :calender: Working on Real time Android Applications development since, 2017
+ * :calendar: Working on Real time Android Applications development since, 2017
  * :beginner: Currently Learning Kotlin in Android Development
  * :trophy: Personal projects I worked in free time [Start Learning Android](https://play.google.com/store/apps/details?id=edu.learning.startlearingandroid),
             [Pune Food Adda](https://play.google.com/store/apps/details?id=com.satyam.foodadda), [Meeting Tracker](https://play.google.com/store/apps/details?id=com.help.meetingtracker)
