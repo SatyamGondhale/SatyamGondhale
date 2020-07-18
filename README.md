@@ -6,7 +6,7 @@
 <img align="right" src="https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif" hspace="20"/>
 
  * :computer: I am working as Android Application Developer for [Fyra Insights Pvt Lts](https://fyra.biz/).
- * :email: Worked on popular apps like [PasserBy _10,000+ downloads](https://play.google.com/store/apps/details?id=biz.fyra.passerby&hl=en_IN), [PasserbyBusiness](https://play.google.com/store/apps/details?id=biz.fyra.bookapp&hl=en_IN) 
+ * :email: Worked on popular apps like [PasserBy](https://play.google.com/store/apps/details?id=biz.fyra.passerby&hl=en_IN) (10,000+ downloads), [PasserbyBusiness](https://play.google.com/store/apps/details?id=biz.fyra.bookapp&hl=en_IN) 
  * :calendar: Working on Real time Android Applications development since, 2017
  * :beginner: Currently Learning Kotlin in Android Development
  * :trophy: Personal projects I worked in free time [Start Learning Android](https://play.google.com/store/apps/details?id=edu.learning.startlearingandroid),
