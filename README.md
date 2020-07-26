@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![HitCount](http://hits.dwyl.com/SatyamGondhale/https://githubcom/SatyamGondhale.svg)](http://hits.dwyl.com/SatyamGondhale/https://githubcom/SatyamGondhale)
 ## Who am I to you all :
 
 <img align="right" src="https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif" hspace="20"/>
