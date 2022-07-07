@@ -6,7 +6,7 @@
  * :computer: I am working as Software Engineer for [Apna Jobs](https://apna.co/).
  * :email: Worked on popular apps like [PasserBy](https://play.google.com/store/apps/details?id=biz.fyra.passerby&hl=en_IN) (10,000+ downloads), [PasserbyBusiness](https://play.google.com/store/apps/details?id=biz.fyra.bookapp&hl=en_IN) 
  * :calendar: Working on Real time Android Applications development since, 2017
- * :beginner: Currently Learning Kotlin in Android Development
+ * :beginner: Currently Learning Kotlin, Jetpack Compose in Android Development
  * :trophy: Personal projects I worked in free time [Start Learning Android](https://play.google.com/store/apps/details?id=edu.learning.startlearingandroid),
             [Pune Food Adda](https://play.google.com/store/apps/details?id=com.satyam.foodadda), [Meeting Tracker](https://play.google.com/store/apps/details?id=com.help.meetingtracker)
 * :bulb: Looking to collaborate on new ideas related to E-commerce, learning platforms
